@@ -3,7 +3,7 @@ Det2Seg, an automatic method that integrates weak annotations such as text, poin
 
 [Ming Wang](https://github.com/OyamingO), Chenxiao Zhang*, Peng Yue*
 
-[[`Paper`](https://github.com/OyamingO/Det2Seg)] [[`Project`](https://github.com/OyamingO/Det2Seg)] [[`Dataset`](https://github.com/OyamingO/Det2Seg)]  [[`BibTeX`](#Citing-Det2Seg)]
+[[`Paper`](https://github.com/OyamingO/Det2Seg)] [[`Project`](https://github.com/OyamingO/Det2Seg)] [[`Dataset`](https://pan.baidu.com/s/17geF8yl68Fibb7Ih44YgAQ?pwd=kv87)]  [[`BibTeX`](#Citing-Det2Seg)]
 
 
 ### 🔥: Installation
@@ -16,7 +16,7 @@ The following optional dependencies are necessary for mask post-processing, savi
 pip install opencv-python pycocotools matplotlib
 ```
 
-### 🚀: Citing Det2Seg
+### Citing Det2Seg
 
 If you use Det2Seg in your research, please use the following BibTeX entry.
 
