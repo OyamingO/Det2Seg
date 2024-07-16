@@ -1,9 +1,9 @@
-# Det2Seg: An automatic pixel-level Labeling method based on multi-scale prompts for fire detection in remote sensing images	
-Det2Seg, an automatic method that integrates weak annotations such as text, point and box prompts with SAM, to convert object detection datasets into pixel-level semantic segmentation datasets.
+# Box2Pix: An automatic box-level to pixel-level annotation transformation method for fire detection in remote sensing images
+Box2Pix, an automatic method that integrates weak annotations such as text, point and box prompts with SAM, to convert object detection datasets into pixel-level semantic segmentation datasets.
 
 [Ming Wang](https://github.com/OyamingO), Chenxiao Zhang*, Peng Yue*
 
-[[`Paper`](https://github.com/OyamingO/Det2Seg)] [[`Project`](https://github.com/OyamingO/Det2Seg)] [[`Dataset`](https://pan.baidu.com/s/17geF8yl68Fibb7Ih44YgAQ?pwd=kv87)]  [[`BibTeX`](#Citing-Det2Seg)]
+[[`Paper`](https://github.com/OyamingO/Box2Pix)] [[`Project`](https://github.com/OyamingO/Box2Pix)] [[`Dataset`](https://pan.baidu.com/s/17geF8yl68Fibb7Ih44YgAQ?pwd=kv87)]  [[`BibTeX`](#Citing-Box2Pix)]
 
 
 ### 🔥: Installation
@@ -16,15 +16,15 @@ The following optional dependencies are necessary for mask post-processing, savi
 pip install opencv-python pycocotools matplotlib
 ```
 
-### Citing Det2Seg
+### Citing Box2Pix
 
-If you use Det2Seg in your research, please use the following BibTeX entry.
+If you use Box2Pix in your research, please use the following BibTeX entry.
 
 ```
-@article{Det2Seg,
-  title={Det2Seg: An automatic pixel-level Labeling method based on multi-scale prompts for fire detection in remote sensing images},
-  author={Ming Wang, Chenxiao Zhang, Peng Yue},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
+@article{Box2Pix,
+  title={Box2Pix: An automatic box-level to pixel-level annotation transformation method for fire detection in remote sensing images},
+  author={Ming Wang, Peng Yue, Chenxiao Zhang},
+  journal={GIScience & Remote Sensing},
   year={2024}
 }
 
